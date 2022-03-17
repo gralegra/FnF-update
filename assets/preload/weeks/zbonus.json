@@ -1,40 +1,21 @@
 {
 	"songs": [
-		[
-			"refresher",
-			"Carlos",
-			[
-				255,
-				120,
-				154
-			]
-		],
-		[
-			"freakish-neko",
-			"ejcomelol",
-			[
-				235,
-				235,
-				235
-			]
-		]
+		["refresher", "Carlos", [255, 120, 154]],
+		["freakish-neko", "ejcomelol", [235, 235, 235]],
 	],
-	"hideFreeplay": false,
-	"weekBackground": "void",
-	"difficulties": "",
+
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
+	"weekBackground": "streetb",
+
 	"storyName": "Sample text here",
-	"weekName": "FlipSide",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
 	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "FlipSide",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }
