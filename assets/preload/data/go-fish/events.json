@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "hell",
+		"player1": "bf",
+		"player2": "etawtf",
+		"player3": null,
+		"events": [
+			[
+				115179.375,
+				[
+					[
+						"Add Camera Zoom",
+						"1.600",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Flying",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "empty",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Go-Fish"
+	}
+}
