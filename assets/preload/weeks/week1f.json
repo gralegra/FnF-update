@@ -1,49 +1,22 @@
 {
 	"songs": [
-		[
-			"untrue-love",
-			"stalkerlol",
-			[
-				60,
-				60,
-				80
-			]
-		],
-		[
-			"lolcat",
-			"stalkergirllol",
-			[
-				60,
-				60,
-				80
-			]
-		],
-		[
-			"heartbreak",
-			"stalkerkittylol",
-			[
-				60,
-				60,
-				80
-			]
-		]
+		["untrue-love", "stalkerlol", [60, 60, 80]],
+		["lolcat", "stalkergirllol", [60, 60, 80]],
+		["heartbreak", "stalkerkittylol", [60, 60, 80]]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "bedroomb",
-	"difficulties": "",
+
 	"weekCharacters": [
 		"Stalkerb",
 		"bfflipb",
 		""
 	],
+	"weekBackground": "bedroomb",
+
 	"storyName": "KITTY KILLJOY",
-	"weekName": "FlipSideWeek1",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
 	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "FlipSideWeek1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }
