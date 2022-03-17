@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fuckup",
+			"indices": [],
+			"name": "eta fuckedUP"
+		},
+		{
+			"offsets": [
+				128,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "eta idle REAL"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "eta singDOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "eta singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "eta singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				231
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "eta singUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bestdude",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		212,
+		169
+	],
+	"camera_position": [
+		-90,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

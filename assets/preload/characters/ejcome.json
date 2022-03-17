@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EJ IDLE"
+		},
+		{
+			"offsets": [
+				14,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EJ LEFT"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EJ RIGHT"
+		},
+		{
+			"offsets": [
+				6,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EJ DOWN"
+		},
+		{
+			"offsets": [
+				1,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EJ UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ejcome",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ejcomelol",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-221
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Stalker Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-193
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Stalker Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-200
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Stalker Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-288
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Stalker Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-162
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Stalker Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stalker",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stalkerlol",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		127,
+		127
+	],
+	"camera_position": [
+		-130,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

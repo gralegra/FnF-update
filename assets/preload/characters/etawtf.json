@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ethan IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ethan DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ethan LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				320
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ethan RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				154,
+				281
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ethan UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dudebutwtf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "etawtf",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		42,
+		46
+	],
+	"camera_position": [
+		-170,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

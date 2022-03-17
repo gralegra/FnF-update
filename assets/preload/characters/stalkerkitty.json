@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "StalkerKitty Idle"
+		},
+		{
+			"offsets": [
+				109,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "StalkerKitty Left"
+		},
+		{
+			"offsets": [
+				-30,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "StalkerKitty Right"
+		},
+		{
+			"offsets": [
+				72,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "StalkerKitty Down"
+		},
+		{
+			"offsets": [
+				-26,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "StalkerKitty Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stalkerkitty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stalkerkittylol",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		31,
+		26
+	],
+	"camera_position": [
+		-70,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

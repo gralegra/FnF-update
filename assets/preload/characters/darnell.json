@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Darnell IDLE"
+		},
+		{
+			"offsets": [
+				62,
+				-187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Darnell LEFT"
+		},
+		{
+			"offsets": [
+				62,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Darnell RIGHT"
+		},
+		{
+			"offsets": [
+				79,
+				-282
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Darnell DOWN"
+		},
+		{
+			"offsets": [
+				78,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Darnell UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darnell",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "darnelllol",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		48,
+		212
+	],
+	"camera_position": [
+		300,
+		327
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

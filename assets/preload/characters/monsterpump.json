@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pump IDLE"
+		},
+		{
+			"offsets": [
+				120,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pump LEFT"
+		},
+		{
+			"offsets": [
+				-64,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pump RIGHT"
+		},
+		{
+			"offsets": [
+				-15,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pump UP"
+		},
+		{
+			"offsets": [
+				-8,
+				-195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pump DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monsterpump",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monsterpumplol",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		20,
+		20
+	],
+	"camera_position": [
+		-214,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

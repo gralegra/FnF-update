@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mad Roy IDLE"
+		},
+		{
+			"offsets": [
+				-9,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mad Roy LEFT"
+		},
+		{
+			"offsets": [
+				-38,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mad Roy RIGHT"
+		},
+		{
+			"offsets": [
+				-2,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mad Roy DOWN"
+		},
+		{
+			"offsets": [
+				-5,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mad Roy UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dudefromfnf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dudefromfnflol",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		117,
+		48
+	],
+	"camera_position": [
+		50,
+		125
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

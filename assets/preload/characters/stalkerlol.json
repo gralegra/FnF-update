@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-194
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "StalkerMad Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-202
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "StalkerMad Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-221
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "StalkerMad Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-231
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "StalkerMad Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				-227
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "StalkerMad Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stalkergirl",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stalkergirllol",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		87,
+		85
+	],
+	"camera_position": [
+		-100,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "eta idle REAL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "eta singDOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				99,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "eta singLEFT"
+		},
+		{
+			"offsets": [
+				110,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "eta singRIGHT"
+		},
+		{
+			"offsets": [
+				104,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "eta singUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dudecracked",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		212,
+		169
+	],
+	"camera_position": [
+		-120,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
