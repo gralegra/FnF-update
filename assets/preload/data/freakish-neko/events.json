@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "void",
+		"player1": "bf",
+		"player2": "ejcome",
+		"player3": null,
+		"events": [
+			[
+				32997.65625,
+				[
+					[
+						"Screen Shake",
+						"1, 0.02",
+						""
+					]
+				]
+			],
+			[
+				33009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.075",
+						"0.14"
+					]
+				]
+			],
+			[
+				61406.25,
+				[
+					[
+						"Flash",
+						"micanimon",
+						"1.2"
+					]
+				]
+			],
+			[
+				62625,
+				[
+					[
+						"Flash",
+						"micanim",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "empty",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Freakish-Neko"
+	}
+}
