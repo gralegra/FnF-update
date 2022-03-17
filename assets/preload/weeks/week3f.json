@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"darnell",
+			"darnelllol",
+			[
+				186,
+				13,
+				255
+			]
+		],
+		[
+			"pyro",
+			"darnelllol",
+			[
+				186,
+				13,
+				255
+			]
+		],
+		[
+			"boom",
+			"darnelllol",
+			[
+				186,
+				13,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "trainb",
+	"difficulties": "",
+	"weekCharacters": [
+		"darnellb",
+		"bfflipb",
+		"flipgfb"
+	],
+	"storyName": "DARNELL",
+	"weekName": "FlipSideWeek3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

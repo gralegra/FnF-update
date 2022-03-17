@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"refresher",
+			"Carlos",
+			[
+				255,
+				120,
+				154
+			]
+		],
+		[
+			"freakish-neko",
+			"ejcomelol",
+			[
+				235,
+				235,
+				235
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "void",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Sample text here",
+	"weekName": "FlipSide",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

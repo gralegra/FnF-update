@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"bully",
+			"dudelol",
+			[
+				255,
+				140,
+				55
+			]
+		],
+		[
+			"trick",
+			"dudelol",
+			[
+				255,
+				140,
+				55
+			]
+		],
+		[
+			"loner",
+			"dudefromfnflol",
+			[
+				255,
+				140,
+				55
+			]
+		],
+		[
+			"babble",
+			"monsterpumplol",
+			[
+				12,
+				12,
+				12
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "streetb",
+	"difficulties": "normal, hard",
+	"weekCharacters": [
+		"dudeb",
+		"bfflipb",
+		"flipgfb"
+	],
+	"storyName": "hatzgang",
+	"weekName": "FlipSideWeek2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
