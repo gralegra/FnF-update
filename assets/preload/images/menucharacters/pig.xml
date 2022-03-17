@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="char.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pig Dancing Beat0000" x="0" y="0" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0001" x="703" y="0" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0002" x="1406" y="0" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0003" x="2109" y="0" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0004" x="2812" y="0" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0005" x="0" y="633" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0006" x="0" y="633" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0007" x="703" y="633" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0008" x="703" y="633" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0009" x="703" y="633" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0010" x="1406" y="633" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0011" x="2109" y="633" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0012" x="2812" y="633" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0013" x="0" y="1266" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0014" x="0" y="1266" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0015" x="703" y="1266" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0016" x="1406" y="1266" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0017" x="2109" y="1266" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0018" x="2812" y="1266" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0019" x="0" y="1899" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0020" x="703" y="1899" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0021" x="703" y="1899" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0022" x="1406" y="1899" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0023" x="1406" y="1899" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0024" x="1406" y="1899" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0025" x="2109" y="1899" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0026" x="2812" y="1899" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0027" x="0" y="2532" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0028" x="703" y="2532" width="703" height="633"/>
+	<SubTexture name="Pig Dancing Beat0029" x="703" y="2532" width="703" height="633"/>
+</TextureAtlas>
