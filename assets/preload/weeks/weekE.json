@@ -1,49 +1,22 @@
 {
 	"songs": [
-		[
-			"chimp-out",
-			"icons",
-			[
-				206,
-				133,
-				93
-			]
-		],
-		[
-			"pig-out",
-			"pige)",
-			[
-				206,
-				133,
-				93
-			]
-		],
-		[
-			"go-fish",
-			"Fish",
-			[
-				206,
-				133,
-				93
-			]
-		]
+		["chimp-out", "icons", [206, 133, 93]],
+		["pig-out", "pige)", [206, 133, 93]],
+		["go-fish", "fish", [206, 133, 93]],
 	],
-	"hideFreeplay": false,
-	"weekBackground": "bathroomb",
-	"difficulties": "normal",
+
 	"weekCharacters": [
 		"bestdudeb",
 		"boyfriend",
 		"pigb"
 	],
-	"storyName": "Ethan Come!",
-	"weekName": "FlipSideWeekE",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
+	"weekBackground": "bathroomb",
+
+	"storyName": "Ethan Come",
 	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "FlipSideWeekE",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }
