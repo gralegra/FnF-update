@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "bathroom",
+		"player1": "bf",
+		"player2": "eta",
+		"player3": null,
+		"events": [
+			[
+				89192.3076923076,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"BF"
+					]
+				]
+			],
+			[
+				89538.4615384615,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"BF"
+					]
+				]
+			],
+			[
+				89777.8846153846,
+				[
+					[
+						"Play Animation",
+						"fuckup",
+						"Dad"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				90311.5384615384,
+				[
+					[
+						"Change Character",
+						"2",
+						"pork"
+					]
+				]
+			],
+			[
+				91814.423076923,
+				[
+					[
+						"Flash",
+						"Flash",
+						"0.7"
+					]
+				]
+			],
+			[
+				92192.3076923076,
+				[
+					[
+						"Change Character",
+						"1",
+						"etacracked"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "pig",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "pig-out"
+	}
+}
